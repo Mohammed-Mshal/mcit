@@ -1,5 +1,5 @@
 <template>
-    <div class="about">
+    <div class="about flex justify-center">
         <div class="container mx-auto">
             <div class="content">
                 <h2 class="custom-title lightBG reveal text-animated">

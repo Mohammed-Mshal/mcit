@@ -79,7 +79,7 @@ const listLinks = computed(()=>{
 })
 </script>
 <template>
-    <nav :class="`${isScrolling&&'scrolling'}`">
+    <nav :class="`${isScrolling&&'scrolling'} flex justify-center`">
         <div class="container mx-auto">
             <div class="logo">
                 <img src="@/assets/images/MCITLogo.svg" alt="Logo">
