@@ -326,7 +326,7 @@ html[dir="rtl"] *{
         justify-content: center;
         text-align: center;
         flex-direction: column;
-        max-width: 800px;
+        max-width: 900px;
         text-wrap-style: pretty;
       }
 
